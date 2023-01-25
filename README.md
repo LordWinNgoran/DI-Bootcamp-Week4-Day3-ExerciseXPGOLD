@@ -1,4 +1,4 @@
-## DI-Bootcamp ATOS WEEK 3 DAY 4 MINI PROJECT #2 Drumset
+## DI-Bootcamp ATOS WEEK 3 DAY 3 ExerciseXP GOLD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
